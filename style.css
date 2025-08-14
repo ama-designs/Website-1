@@ -447,7 +447,7 @@ span{
     }
 }
 
-/*  Mobile screens */
+/*  Mobile screens responsiveness*/
 
 @media(max-width:480px) {
     .hero_container{
